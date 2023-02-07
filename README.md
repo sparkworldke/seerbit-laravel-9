@@ -55,7 +55,7 @@ return [
 ####
 You can find both public and secret keys from your merchant dashboard. 
 
-The token can be generated following the guides [here](https://doc.seerbit.com/getstarted/authentication)
+The token can be generated following the guides [here](https://doc.seerbit.com/getstarted/authentication) - (https://apis.seerbit.com/)
 
 Replace them by changes the key values in your **.env** file.
 
