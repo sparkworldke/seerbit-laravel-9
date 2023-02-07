@@ -32,7 +32,7 @@ Once composer is installed, execute the following command in your project root t
 
 
 ```bash
-composer require seerbit/seerbit-laravel-9
+composer require sparkworld/seerbit-laravel-9
 ```
 
 The service provider will automatically register itself.
